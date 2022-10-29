@@ -51,7 +51,7 @@ button {
 .header {
     height: 280px;
     max-height: 280px;
-    background-image: url('./bg-desktop-light.jpg');
+    background-image: url('/bg-desktop-light.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
