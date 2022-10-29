@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/cazanca/todo-app)
-- Live Site URL: (https://news-homepage-indol.vercel.app/)
+- Live Site URL: (https://todo-app-kappa-khaki.vercel.app/)
 
 
 ### Built with
