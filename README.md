@@ -1,7 +1,45 @@
-# Vue 3 + Vite
+# Frontend Mentor - News homepage solution
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a solution to the [Todo app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW).
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Add new todos to the list
+- Mark todos as complete
+- Delete todos from the list
+- Filter by all/active/complete todos
+- Clear all completed todos
+- Toggle light and dark mode
+- **Bonus**: Persist data
+
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Solution URL:(https://github.com/cazanca/news-homepage)
+- Live Site URL: (https://news-homepage-indol.vercel.app/)
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flex box
+- CSS Grid
+- [React](https://vuejs.org/) - JS library
+- [Pinia](https://pinia.vuejs.org/) - State Management
+
+
+
+## Author
+
+- Frontend Mentor - [@cazanca](https://www.frontendmentor.io/profile/cazanca)
