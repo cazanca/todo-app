@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://github.com/cazanca/news-homepage)
+- Solution URL:(https://github.com/cazanca/todo-app)
 - Live Site URL: (https://news-homepage-indol.vercel.app/)
 
 
@@ -35,7 +35,7 @@ Users should be able to:
 - CSS custom properties
 - Flex box
 - CSS Grid
-- [React](https://vuejs.org/) - JS library
+- [Vue](https://vuejs.org/) - JS library
 - [Pinia](https://pinia.vuejs.org/) - State Management
 
 
